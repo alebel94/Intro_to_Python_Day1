@@ -1,2 +1,2 @@
-# intro_to_python_Day1
+# Intro to Python Day1
 3 python problems
